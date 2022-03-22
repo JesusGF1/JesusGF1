@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning about Python, R, New Generation Sequencing analysis and Machine learning.
 - 💬 Ask me about Anything neuro or bioinformatics related!
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Bees perceive the passing of time.
+- ⚡ Fun fact: Bees perceive the passing of time. Scientists discovered this by taking a bee colony and moving them to a cave in the opposite hemisphere.
 
 <!--
 **JesusGF1/JesusGF1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
