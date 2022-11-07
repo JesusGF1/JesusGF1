@@ -2,7 +2,7 @@
 ## My name is Jesus and I am passionate about neuroscience and bioinformatics
 
 - 🔭 I’m currently working on my Bioinformatics and Data Engineering skills
-- 🌱 I’m currently learning about Python, R, New Generation Sequencing analysis and Machine learning.
+- 🌱 I’m learning about Python, R, New Generation Sequencing analysis and Machine learning.
 - 💬 Ask me about Anything neuro or bioinformatics related!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Bees perceive the passing of time without the help of the sun or the stars. Scientists discovered this by taking a colony of bees and moving them to a cave in the opposite hemisphere.
