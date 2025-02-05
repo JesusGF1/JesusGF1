@@ -7,6 +7,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Bees perceive the passing of time without the help of the sun or the stars. Scientists discovered this by taking a colony of bees and moving them to a cave in the opposite hemisphere.
 
+Take a look at my [blogpost]!
+
+[blogpost]:https://jesusgf1.github.io/
 <!--
 **JesusGF1/JesusGF1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
